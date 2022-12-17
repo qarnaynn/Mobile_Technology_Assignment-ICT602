@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zakat Payment</string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_information">INFORMATION</string>
+    <string name="t_github">WEBSITE URL:</string>
+
+    <string name="information">This application was created by Zul, a talented app developer. With the help of this application, the payment of zakat for gold savings will be estimated. The two sorts of gold available in this application are keep and wear. The amount of zakat, uruf, and the total worth of the gold will all be computed for this calculation. The benefit of this programme is that users may easily make zakat payments without being confused.</string>
+    <string name="student_name">MOHAMMAD ZULQARNAIN BIN AB RASHID</string>
+    <string name="student_id">2021121787</string>
+    <string name="group">CS2404A</string>
+    <string name="program_code">ICT602</string>
+    <string name="github">
+        <a href="https://github.com/qarnaynn/Mobile_Technology_Assignment-ICT602">https://github.com/qarnaynn/ZakatPayment</a></string>
+    <string name="copyright">Copyright &#169; 2022 SF</string>
+
+</resources>
